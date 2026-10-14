@@ -1,0 +1,1 @@
+This project will consist of a database of One Piece Trading cards, consisting of information of all cards, including card name, card energy cost, card power, and card effects.
